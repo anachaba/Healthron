@@ -130,7 +130,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.Color.Green;
-            this.button2.Location = new System.Drawing.Point(-16, -17);
+            this.button2.Location = new System.Drawing.Point(-6, 12);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(365, 242);
             this.button2.TabIndex = 17;
@@ -143,7 +143,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 70F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.ForeColor = System.Drawing.Color.Green;
-            this.label5.Location = new System.Drawing.Point(328, 9);
+            this.label5.Location = new System.Drawing.Point(270, -2);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(736, 265);
             this.label5.TabIndex = 19;
@@ -266,9 +266,9 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = global::Covid_Interface.Properties.Resources.animation_500_l51b213p;
-            this.pictureBox9.Location = new System.Drawing.Point(1197, 1086);
+            this.pictureBox9.Location = new System.Drawing.Point(1253, 1163);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(735, 554);
+            this.pictureBox9.Size = new System.Drawing.Size(594, 420);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox9.TabIndex = 46;
             this.pictureBox9.TabStop = false;
@@ -310,27 +310,27 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(3564, 2096);
+            this.Controls.Add(this.composure);
+            this.Controls.Add(this.pictureBox9);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.cough1);
+            this.Controls.Add(this.Door1);
+            this.Controls.Add(this.Temp1);
+            this.Controls.Add(this.Distance1);
+            this.Controls.Add(this.Mask);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.composure);
-            this.Controls.Add(this.Door1);
-            this.Controls.Add(this.cough1);
-            this.Controls.Add(this.Temp1);
-            this.Controls.Add(this.Distance1);
-            this.Controls.Add(this.Mask);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.Activate1);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox9);
             this.Name = "Main";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();

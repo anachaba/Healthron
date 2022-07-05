@@ -1,0 +1,20 @@
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Healthron UI.exe
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Healthron UI.deps.json
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Healthron UI.runtimeconfig.json
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Healthron UI.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Healthron UI.pdb
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.csproj.AssemblyReference.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Form1.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Main.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Properties.Resources.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Skin.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.csproj.GenerateResource.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.AssemblyInfoInputs.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.AssemblyInfo.cs
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.csproj.CoreCompileInputs.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\refint\Healthron UI.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.pdb
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Healthron UI.genruntimeconfig.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\ref\Healthron UI.dll
