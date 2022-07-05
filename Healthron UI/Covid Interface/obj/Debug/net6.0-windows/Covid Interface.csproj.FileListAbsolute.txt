@@ -1,0 +1,59 @@
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.exe
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.deps.json
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.runtimeconfig.json
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\ref\Covid Interface.dll
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.AssemblyReference.cache
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfoInputs.cache
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfo.cs
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.CoreCompileInputs.cache
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\ref\Covid Interface.dll
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.genruntimeconfig.cache
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Form1.resources
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Main.resources
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.GenerateResource.cache
+C:\Users\Julius Anumbia\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Properties.Resources.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.exe
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.deps.json
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.runtimeconfig.json
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.AssemblyReference.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Form1.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Main.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Properties.Resources.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.GenerateResource.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfoInputs.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfo.cs
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.CoreCompileInputs.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\refint\Covid Interface.dll
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.genruntimeconfig.cache
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\ref\Covid Interface.dll
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.exe
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.deps.json
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.runtimeconfig.json
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\bin\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.AssemblyReference.cache
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Form1.resources
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Main.resources
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Properties.Resources.resources
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.GenerateResource.cache
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfoInputs.cache
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.AssemblyInfo.cs
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.csproj.CoreCompileInputs.cache
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.dll
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\refint\Covid Interface.dll
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.pdb
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid Interface.genruntimeconfig.cache
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\ref\Covid Interface.dll
+C:\Users\janum\Desktop\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Skin.resources
+C:\Users\janum\source\repos\Covid Interface\Covid Interface\obj\Debug\net6.0-windows\Covid_Interface.Skin.resources
