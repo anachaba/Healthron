@@ -20,7 +20,7 @@
 - Entrance Entry restriction
 - Body Temperature Reading
 - Cough Detection
-- Composure (body posture tracking)
+- Composure (body posture tracking.)
 - Skin Condition Detection
   - [x] Monkey Pox
   
