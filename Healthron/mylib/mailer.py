@@ -19,6 +19,7 @@ class Mailer:
         self.server = smtplib.SMTP_SSL('smtp.gmail.com', self.PORT)
 
     def send(self, mail):
+        """Send a mail"""
         self.server = smtplib.SMTP_SSL('smtp.gmail.com', self.PORT)
         self.server.login(self.EMAIL, self.PASS)
         # message to be sent
