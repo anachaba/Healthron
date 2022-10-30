@@ -23,6 +23,7 @@
 - Composure (body posture tracking.)
 - Skin Condition Detection
   - [x] Monkey Pox
+  - [] Skin Rashes
   
 # How to Use
 ### *Please Read and Configure file paths where necessary
