@@ -23,12 +23,13 @@
 - Composure (body posture tracking.)
 - Skin Condition Detection
   - [x] Monkey Pox
-  - [] Skin Rashes
+  - [x] Skin Rushes
   
 # How to Use
 ### *Please Read and Configure file paths where necessary
 ### *Some features are mockups.
 - #### Entrance Entry restriction (This checks if person is wearing mask then door opens)
+  - The hardware part is optional
   - From the "Hardware" file, copy and paste and run code in arduino IDE.
   - Open ZMask_Door.py and connect serial pin of servo to pin 9 and hook up voltage and ground accordingly.
 
