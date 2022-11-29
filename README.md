@@ -1,5 +1,5 @@
 # Healthron
-#### A Disease Outbreak Assistance system using machine learning and Artifitial Intelligence
+#### A Disease Outbreak Assistance system with the use of machine learning and Artifitial Intelligence
 
 ![Healthron UI STARTER](https://user-images.githubusercontent.com/54176002/177432919-249bbeea-d832-426f-be2f-68392e6a6e06.PNG)
 
