@@ -26,7 +26,7 @@
   - [x] Skin Rushes
   
 # How to Use
-### *Please Read and Configure file paths where necessary
+### *Configure file paths where necessary
 ### *Some features are mockups features would be added later.
 - #### Entrance Entry restriction (This checks if person is wearing mask then door opens)
   - The hardware part is optional
